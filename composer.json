@@ -1,5 +1,5 @@
 {
-    "name": "brille24/sylius-customer-options-plugin",
+    "name": "yosimitso/sylius-customer-options-plugin",
     "type": "sylius-plugin",
     "description": "Adds product customizing to Sylius",
     "license": "MIT",
@@ -43,7 +43,7 @@
         "symfony/dependency-injection": "4.1.8",
         "symfony/dom-crawler": "4.1.8",
         "symfony/routing": "4.1.8",
-        "symplify/package-builder": "^8.3.17"
+        "symplify/package-builder": "^8.3.48"
     },
     "prefer-stable": true,
     "autoload": {
